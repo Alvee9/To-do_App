@@ -1,0 +1,25 @@
+{
+  "name": "to-do_app",
+  "version": "1.0.0",
+  "description": "A simple to-do app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alvee9/To-do_App.git"
+  },
+  "author": "Abdullah 'Alvee' Imam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alvee9/To-do_App/issues"
+  },
+  "homepage": "https://github.com/Alvee9/To-do_App#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.21"
+  }
+}

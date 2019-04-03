@@ -1,0 +1,5 @@
+# Node Module Files
+node_modules/
+
+# NPM cache directory
+.npm
